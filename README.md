@@ -3,7 +3,7 @@
 ### 🚀 Mark Willoughby | Data Scientist | Machine Learning & Time Series Expert  
 
 🔬 Passionate about **algorithm design**, **data science**, and **machine learning**, I specialize in transforming complex data into actionable insights.  
-With a background in **Physics** and experience in **Wind Energy, Consultancy, and Asset Integrity Safety**, I bring a **scientific approach** to problem-solving.  
+With a background in **Physics** and experience in **Wind Energy, Consultancy, and Asset Integrity Safety**.
 
 [LinkedIn](https://www.linkedin.com/in/mark-willoughby/)  
 ---
