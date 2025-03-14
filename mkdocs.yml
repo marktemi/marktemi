@@ -1,0 +1,27 @@
+site_name: "Mark Willoughby - Data Scientist CV"
+theme:
+  name: "material"
+  palette:
+    scheme: default
+    primary: indigo
+    accent: deep orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - content.tooltips
+    - navigation.top
+
+extra_css:
+  - stylesheets/cv-style.css
+
+nav:
+  - Home: index.md
+  - Skills: skills.md
+  - Contact: contact.md
+
+repo_url: "https://github.com/marktemi"
+repo_name: "GitHub"
