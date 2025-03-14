@@ -5,6 +5,7 @@
 🔬 Passionate about **algorithm design**, **data science**, and **machine learning**, I specialize in transforming complex data into actionable insights.  
 With a background in **Physics** and experience in **Wind Energy, Consultancy, and Asset Integrity Safety**, I bring a **scientific approach** to problem-solving.  
 
+[LinkedIn](https://www.linkedin.com/in/mark-willoughby/)  
 ---
 
 ## 💼 Work Experience  
@@ -53,5 +54,4 @@ With a background in **Physics** and experience in **Wind Energy, Consultancy, a
 
 ---
 
-## 📫 Connect with Me!  
-📍 [LinkedIn](https://www.linkedin.com/in/mark-willoughby/)  
+
