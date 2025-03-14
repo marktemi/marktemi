@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hi there! 👋  
 
-<!--
-**marktemi/marktemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Mark Willoughby | Data Scientist | Machine Learning & Time Series Expert  
 
-Here are some ideas to get you started:
+🔬 Passionate about **algorithm design**, **data science**, and **machine learning**, I specialize in transforming complex data into actionable insights.  
+With a background in **Physics** and experience in **Wind Energy, Consultancy, and Asset Integrity Safety**, I bring a **scientific approach** to problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Work Experience  
+
+### 📌 **Data Scientist | M2hycon GmbH** _(Apr 2023 - Present)_ 💼📊  
+🔹 Worked at a **consultancy firm**, developing **machine learning solutions** for various industrial clients.  
+🔹 Developed **failure detection algorithms** using **classification models** and **neural networks** on **time-series datasets**.  
+🔹 Built and maintained **containerized services** using **Docker 🐳, Kubernetes ☸️, FastAPI ⚡**, ensuring scalable deployment.  
+🔹 Designed **real-time data pipelines** and integrated **Grafana 📡** for system monitoring.  
+🔹 Wrote **technical reports & blog posts** on **time series forecasting, MLOps**, and **AI applications in industry**.  
+
+### 📌 **Data Scientist | Rosen GmbH** _(Dec 2020 - Mar 2023)_ 🦺🔍  
+🔹 Developed **AI-driven navigation systems** for **autonomous water pipeline inspection robots ** using **accelerometers, gyroscopes, and depth sensors**.  
+🔹 Designed **sensor fusion algorithms** combining IMU (Inertial Measurement Unit) data to improve **robotic movement precision in complex pipeline environments**.  
+🔹 Built **machine learning models** to detect **obstacles, defects, and anomalies in pipeline infrastructure** using **ultrasound-based diagnostics**.  
+🔹 Developed **Minimum Viable Products (MVPs) 🚀**, translating research into fully functional **robotic navigation systems**.  
+
+### 📌 **Master Thesis Research | Enercon GmbH** _(Sep 2019 - Jun 2020)_ 🌬️🌀  
+🔹 Worked in the **Wind Energy industry**, focusing on **aerodynamics and cost reduction for wind turbine development**.  
+🔹 **Developed a computationally efficient model (Lifting Line Theory)**, significantly reducing **wind turbine development costs**.  
+🔹 **Analyzed & visualized large wind turbine datasets**, including **3D CFD simulations**, using **Python 🐍 (Pandas, NumPy), TECplot 📊, and ParaView 🌐**.  
+🔹 **Defined & documented best practices** for the **Lifting Line Free Wake Model**, sharing insights with the team.  
+🔹 **Optimized workflows & automated processes** using **Python scripting**, improving efficiency in **wind turbine simulations**.  
+
+---
+
+## 🛠 Tech Stack  
+
+### 🖥️ **Programming Languages & Libraries**  
+🐍 Python | 🔢 NumPy | 📊 Pandas | ⚡ Polars | 🧪 Pytest | ⚡ FastAPI | 🌍 REST APIs  
+
+### 🤖 **Machine Learning & AI**  
+🎯 Scikit-Learn (Sklearn) | 📈 Nixtla (Time Series Forecasting) | 🧠 TensorFlow | 📊 XGBoost | 🔬 Feature Engineering  
+
+### ☁️ **Databases & Cloud**  
+🗄️ SQL | ☁️ Azure  
+
+### 🔗 **Version Control & CI/CD**  
+🔧 Git | 🔧 Azure DevOps | 🏢 GitHub | 🏗️ GitLab | 🚀 CI/CD Pipelines  
+
+### 🏗️ **Infrastructure & Deployment**  
+🐳 Docker | ☸️ Kubernetes | ⚡ FastAPI | 🔄 MLOps Pipelines  
+
+### 📊 **Data Visualization & Monitoring**  
+📡 Grafana | 📊 Seaborn | 📈 Matplotlib | 🔍 Plotly  
+
+---
+
+## 📫 Connect with Me!  
+📍 [LinkedIn](https://www.linkedin.com/in/mark-willoughby/)  
