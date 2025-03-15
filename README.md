@@ -52,6 +52,11 @@ With a background in **Physics** and experience in **Wind Energy, Consultancy, a
 ### 📊 **Data Visualization & Monitoring**  
 📡 Grafana | 📊 Seaborn | 📈 Matplotlib | 🔍 Plotly  
 
+
+## 🎵 **Beyond Data: Music & DJing**  
+When I'm not working with data, I **DJ and produce electronic music**. 🎧🎶  
+🔥 **Spotify** → [Listen Here](https://open.spotify.com/artist/57kYeex7bdy1pTfXrSPsSP?si=Yos4_V24TLaxspRm49-6sA)  
+🔥 **SoundCloud** → [My Favorite DJ Set](https://on.soundcloud.com/B2h15T6as3WTJzTJ6)  
 ---
 
 
