@@ -1,5 +1,8 @@
 ## Hi there! 👋  
 
+<img alt="Mark Willoughby" height="200" src="https://github.com/marktemi.png" width="200"/>
+
+
 ### 🚀 Mark Willoughby | Data Scientist | Machine Learning & Time Series Expert  
 
 I am a **Data Scientist** with a strong foundation in **Physics** and a passion for **Machine Learning, Time Series Analysis, and Algorithm Development**. My expertise lies in **transforming complex data into actionable insights**, helping businesses make **data-driven decisions** efficiently.  
