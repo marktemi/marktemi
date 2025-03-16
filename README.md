@@ -21,7 +21,7 @@ With a background in **Physics** and experience in **Wind Energy, Consultancy, a
 🔹 Wrote **technical reports & blog posts** on **time series forecasting, MLOps**, and **AI applications in industry**.  
 
 ### 📌 **Data Scientist | Rosen GmbH** _(Dec 2020 - Mar 2023)_ 🦺🔍  
-🔹 Developed **AI-driven navigation systems** for **autonomous water pipeline inspection robots ** using **accelerometers, gyroscopes, and depth sensors**.  
+🔹 Developed **AI-driven navigation systems** for **autonomous water pipeline inspection robots** using **accelerometers, gyroscopes, and depth sensors**.  
 🔹 Designed **sensor fusion algorithms** combining IMU (Inertial Measurement Unit) data to improve **robotic movement precision in complex pipeline environments**.  
 🔹 Built **machine learning models** to detect **obstacles, defects, and anomalies in pipeline infrastructure** using **ultrasound-based diagnostics**.  
 🔹 Developed **Minimum Viable Products (MVPs) 🚀**, translating research into fully functional **robotic navigation systems**.  
